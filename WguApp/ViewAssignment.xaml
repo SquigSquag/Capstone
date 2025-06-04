@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WguApp.ViewAssignment"
+             Title="ViewAssignment">
+    <VerticalStackLayout>
+        
+        <Label 
+            Text="{Binding Name, StringFormat='Assessment: {0}'}"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            Margin="0,20,0,50"/>
+        <Label Text="{Binding StartDate, StringFormat='Start Date: {0:MM/dd/yyyy}'}" Margin="10"/>
+        <Label Text="{Binding EndDate, StringFormat='End Date: {0:MM/dd/yyyy}'}" Margin="10"/>
+
+        <Label Text="{Binding TurnedInDisplay, StringFormat='Turned In? : {0}'}" Margin="10"/>
+        <Label Text="{Binding Type, StringFormat='Assessment Type: {0}'}" Margin="10"/>
+
+
+        <Grid ColumnDefinitions="Auto, Auto" ColumnSpacing="20">
+            <Button Text="Notify Start Date" Clicked="Start_Notify" Grid.Column="0"/>
+            <Button Text="Notify End Date" Clicked="End_Notify" Grid.Column="1"/>
+        </Grid>
+    </VerticalStackLayout>
+</ContentPage>

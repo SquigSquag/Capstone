@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WguApp.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Label
+                x:Name="Terms"
+                FontSize="Large"
+                Text="Terms: "
+                SemanticProperties.Description="Terms Title Text"
+                HorizontalOptions="Center"
+                />
+            <HorizontalStackLayout
+                HorizontalOptions="Center"
+                Spacing="10">
+                
+                <Label
+                    Text="Filter by: "
+                    SemanticProperties.HeadingLevel="Level1"
+                    VerticalOptions="Center"/>
+                
+                <SearchBar x:Name="SearchBarTerms"
+                       Placeholder="Search Terms"
+                       TextChanged="SearchBarTerms_TextChanged"/>
+            
+            </HorizontalStackLayout>
+            
+            <ListView
+                x:Name="TermListView"
+                HorizontalOptions="Center"
+                RowHeight="50"
+                ItemTapped="TermListView_ItemTapped"
+                SelectionMode="Single"
+                >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid ColumnDefinitions="2*,2*,Auto, Auto" RowDefinitions="Auto, Auto">
+                                <Label Text="{Binding TermTitle}" FontSize="Body" VerticalOptions="Center" HorizontalOptions="Start" Grid.Column="0" Grid.Row="0"/>
+                                <Button Text="✏" VerticalOptions="Center" HorizontalOptions="Center" Grid.Column="2" Grid.RowSpan="2" Clicked="Edit_Term"/>
+                                <Button Text="X" TextColor="Red"   VerticalOptions="Center" HorizontalOptions="Center" Grid.Column="3" Grid.RowSpan="2" Clicked="Delete_Term"/>
+                                <Label Text="{Binding StartDate, StringFormat='Start: {0:MM/dd/yyyy}'}" VerticalOptions="Center" Grid.Column="0" Grid.Row="1"/>
+                                <Label Text="{Binding EndDate, StringFormat='End: {0:MM/dd/yyyy}'}" VerticalOptions="Center" Grid.Column="1" Grid.Row="1"/>
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                
+            </ListView>
+            
+            <Button
+                x:Name="AddTermBtn"
+                Text="Add Term" 
+                SemanticProperties.Hint="Adds a blank new term"
+                Clicked="AddTermClicked"
+                HorizontalOptions="Fill"
+                Margin="20"
+                VerticalOptions="End"/>
+            
+            <Button Text="Export Terms CSV to GSuite" Clicked="ExportTermsCsv_Clicked"/>
+                
+            <Button x:Name="EvalButton"
+                    Text="Add Evaluation Data"
+                    Clicked="EvalButton_Clicked"
+                    HorizontalOptions="Fill"
+                    Margin="20"
+                    VerticalOptions="End"/>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

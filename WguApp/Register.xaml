@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WguApp.Register"
+             Title="Register">
+    <VerticalStackLayout>
+        <Label 
+            Text="Register a new user"
+            FontSize="28"
+            HorizontalOptions="Center" />
+
+        <HorizontalStackLayout
+            Margin="20,10,20,0">
+            <Label Text="Username:" 
+                   VerticalTextAlignment="Start"
+                   />
+
+            <Entry x:Name="usernameEntry"
+                   Placeholder="Enter username"
+                   HorizontalOptions="FillAndExpand" />
+           
+        </HorizontalStackLayout>
+        
+        <HorizontalStackLayout
+            Margin="20,10,20,0">
+            <Label Text="Password:" 
+                   VerticalTextAlignment="Start"
+                   />
+            <Entry x:Name="passwordEntry"
+                   Placeholder="Enter password"
+                   IsPassword="True"
+                   HorizontalOptions="FillAndExpand" />
+        </HorizontalStackLayout>
+        <Button Text="Register"
+                Margin="20,10"
+                Clicked="Button_Clicked" />
+        <Button x:Name="AdminAdd"
+                Text="Add As Admin"
+                Clicked="AdminAdd_Clicked" />
+
+    </VerticalStackLayout>
+</ContentPage>

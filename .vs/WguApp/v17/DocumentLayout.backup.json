@@ -1,0 +1,809 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\wguapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\wguapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\editcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\editcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\sqldata\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\sqldata\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\editassessment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\editassessment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\wguclasses\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\wguclasses\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\editcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\editcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\editterm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\editterm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\editassessment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\editassessment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\wguclasses\\coursenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\wguclasses\\coursenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\sqldata\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\sqldata\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\wguapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\wguapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\TestProject\\obj\\Debug\\net8.0\\TestProject.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestProject\\obj\\Debug\\net8.0\\TestProject.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Coding\\Visual Studio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\wguclasses\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\wguclasses\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WGUTest\\WGUTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WGUTest\\WGUTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\wguclasses\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\wguclasses\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\coursedetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\coursedetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\wguclasses\\term.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\wguclasses\\term.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\wguclasses\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\wguclasses\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\wguclasses\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\wguclasses\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\editterm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\editterm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\termviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\termviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\termviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\termviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\viewassignment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\viewassignment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\coursedetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\coursedetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\viewassignment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\viewassignment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\courseview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\courseview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\courseview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\courseview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Resource.Designer.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\platforms\\ios\\resources\\privacyinfo.xcprivacy||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\platforms\\ios\\resources\\privacyinfo.xcprivacy||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|c:\\users\\matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\wguapp\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB3EBD-F5E8-0930-716C-D118FA63401E}|WguApp\\WguApp.csproj|solutionrelative:wguapp\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WguApp",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguApp.csproj",
+              "RelativeDocumentMoniker": "WguApp\\WguApp.csproj",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguApp.csproj",
+              "RelativeToolTip": "WguApp\\WguApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T17:20:18.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestProject.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\TestProject\\obj\\Debug\\net8.0\\TestProject.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "TestProject\\obj\\Debug\\net8.0\\TestProject.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\TestProject\\obj\\Debug\\net8.0\\TestProject.GlobalUsings.g.cs",
+              "RelativeToolTip": "TestProject\\obj\\Debug\\net8.0\\TestProject.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:49:38.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAOkAAAAAAAAAAAD4vxcBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-03T16:04:40.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAEMAAAAAAAAAAAD4v2MAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-03T16:01:40.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "E:\\Coding\\Visual Studio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "E:\\Coding\\Visual Studio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAEAHAAAAAAAAAAD4v2AHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-03T15:55:10.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WguApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguApp.csproj",
+              "RelativeDocumentMoniker": "WguApp\\WguApp.csproj",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguApp.csproj",
+              "RelativeToolTip": "WguApp\\WguApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T15:24:54.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WGUTest.csproj",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WGUTest\\WGUTest.csproj",
+              "RelativeDocumentMoniker": "WGUTest\\WGUTest.csproj",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WGUTest\\WGUTest.csproj",
+              "RelativeToolTip": "WGUTest\\WGUTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T14:51:28.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditCourse.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\EditCourse.xaml.cs",
+              "RelativeDocumentMoniker": "WguApp\\EditCourse.xaml.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\EditCourse.xaml.cs",
+              "RelativeToolTip": "WguApp\\EditCourse.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:23:26.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SessionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\SessionInfo.cs",
+              "RelativeDocumentMoniker": "WguApp\\WguClasses\\SessionInfo.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\SessionInfo.cs",
+              "RelativeToolTip": "WguApp\\WguClasses\\SessionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:18:12.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\Admin.cs",
+              "RelativeDocumentMoniker": "WguApp\\WguClasses\\Admin.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\Admin.cs",
+              "RelativeToolTip": "WguApp\\WguClasses\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:35:42.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "WguApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "WguApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:39:44.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "WguApp\\Register.xaml.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Register.xaml.cs",
+              "RelativeToolTip": "WguApp\\Register.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:51:11.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Register.xaml",
+              "RelativeDocumentMoniker": "WguApp\\Register.xaml",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Register.xaml",
+              "RelativeToolTip": "WguApp\\Register.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwCYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-25T04:46:33.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "WguApp\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\LoginPage.xaml.cs",
+              "RelativeToolTip": "WguApp\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:37:31.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "WguApp\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\LoginPage.xaml",
+              "RelativeToolTip": "WguApp\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T05:34:02.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TermViewPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\TermViewPage.xaml.cs",
+              "RelativeDocumentMoniker": "WguApp\\TermViewPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\TermViewPage.xaml.cs",
+              "RelativeToolTip": "WguApp\\TermViewPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:45:30.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TermViewPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\TermViewPage.xaml",
+              "RelativeDocumentMoniker": "WguApp\\TermViewPage.xaml",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\TermViewPage.xaml",
+              "RelativeToolTip": "WguApp\\TermViewPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-15T03:45:23.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Assessment.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\Assessment.cs",
+              "RelativeDocumentMoniker": "WguApp\\WguClasses\\Assessment.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\Assessment.cs",
+              "RelativeToolTip": "WguApp\\WguClasses\\Assessment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:34:52.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\Login.cs",
+              "RelativeDocumentMoniker": "WguApp\\WguClasses\\Login.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\Login.cs",
+              "RelativeToolTip": "WguApp\\WguClasses\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:33:32.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditAssessment.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\EditAssessment.xaml.cs",
+              "RelativeDocumentMoniker": "WguApp\\EditAssessment.xaml.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\EditAssessment.xaml.cs",
+              "RelativeToolTip": "WguApp\\EditAssessment.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:37:01.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditAssessment.xaml",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\EditAssessment.xaml",
+              "RelativeDocumentMoniker": "WguApp\\EditAssessment.xaml",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\EditAssessment.xaml",
+              "RelativeToolTip": "WguApp\\EditAssessment.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-01T04:06:45.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\Course.cs",
+              "RelativeDocumentMoniker": "WguApp\\WguClasses\\Course.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\Course.cs",
+              "RelativeToolTip": "WguApp\\WguClasses\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:16:57.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditCourse.xaml",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\EditCourse.xaml",
+              "RelativeDocumentMoniker": "WguApp\\EditCourse.xaml",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\EditCourse.xaml",
+              "RelativeToolTip": "WguApp\\EditCourse.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-30T05:00:02.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "WguApp\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "WguApp\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:27:03.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "WguApp\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "WguApp\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-25T04:59:12.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ViewAssignment.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\ViewAssignment.xaml.cs",
+              "RelativeDocumentMoniker": "WguApp\\ViewAssignment.xaml.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\ViewAssignment.xaml.cs",
+              "RelativeToolTip": "WguApp\\ViewAssignment.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:33:16.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CourseDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\CourseDetails.xaml",
+              "RelativeDocumentMoniker": "WguApp\\CourseDetails.xaml",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\CourseDetails.xaml",
+              "RelativeToolTip": "WguApp\\CourseDetails.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T06:01:38.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\Windows\\app.manifest",
+              "RelativeDocumentMoniker": "WguApp\\Platforms\\Windows\\app.manifest",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\Windows\\app.manifest",
+              "RelativeToolTip": "WguApp\\Platforms\\Windows\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-03-09T08:15:05.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PrivacyInfo.xcprivacy",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\iOS\\Resources\\PrivacyInfo.xcprivacy",
+              "RelativeDocumentMoniker": "WguApp\\Platforms\\iOS\\Resources\\PrivacyInfo.xcprivacy",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\iOS\\Resources\\PrivacyInfo.xcprivacy",
+              "RelativeToolTip": "WguApp\\Platforms\\iOS\\Resources\\PrivacyInfo.xcprivacy",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-09T08:14:49.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\iOS\\Program.cs",
+              "RelativeDocumentMoniker": "WguApp\\Platforms\\iOS\\Program.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\iOS\\Program.cs",
+              "RelativeToolTip": "WguApp\\Platforms\\iOS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T08:14:32.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "WguApp\\Platforms\\iOS\\AppDelegate.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeToolTip": "WguApp\\Platforms\\iOS\\AppDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T08:14:17.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "WguApp\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "WguApp\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T08:13:36.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ViewAssignment.xaml",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\ViewAssignment.xaml",
+              "RelativeDocumentMoniker": "WguApp\\ViewAssignment.xaml",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\ViewAssignment.xaml",
+              "RelativeToolTip": "WguApp\\ViewAssignment.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T07:23:31.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourseDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\CourseDetails.xaml.cs",
+              "RelativeDocumentMoniker": "WguApp\\CourseDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\CourseDetails.xaml.cs",
+              "RelativeToolTip": "WguApp\\CourseDetails.xaml.cs",
+              "ViewState": "AgIAABoAAAAAzczMzMwHwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:03:14.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Xamarin.Android.Resource.Designer.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Resource.Designer.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Resource.Designer.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Resource.Designer.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Resource.Designer.targets",
+              "ViewState": "AgIAACEAAAAAAAAAAAD4v0EAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-02T10:53:20.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CourseView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\CourseView.xaml.cs",
+              "RelativeDocumentMoniker": "WguApp\\CourseView.xaml.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\CourseView.xaml.cs",
+              "RelativeToolTip": "WguApp\\CourseView.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:42:48.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CourseView.xaml",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\CourseView.xaml",
+              "RelativeDocumentMoniker": "WguApp\\CourseView.xaml",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\CourseView.xaml",
+              "RelativeToolTip": "WguApp\\CourseView.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwC8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-02T10:38:31.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\App.xaml",
+              "RelativeDocumentMoniker": "WguApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\App.xaml",
+              "RelativeToolTip": "WguApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T17:11:20.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WguApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\App.xaml.cs",
+              "RelativeToolTip": "WguApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:10:20.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditTerm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\EditTerm.xaml.cs",
+              "RelativeDocumentMoniker": "WguApp\\EditTerm.xaml.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\EditTerm.xaml.cs",
+              "RelativeToolTip": "WguApp\\EditTerm.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBZwDgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:55:38.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditTerm.xaml",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\EditTerm.xaml",
+              "RelativeDocumentMoniker": "WguApp\\EditTerm.xaml",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\EditTerm.xaml",
+              "RelativeToolTip": "WguApp\\EditTerm.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T07:30:04.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WguApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "WguApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAawIYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:22:40.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\SqlData\\Constants.cs",
+              "RelativeDocumentMoniker": "WguApp\\SqlData\\Constants.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\SqlData\\Constants.cs",
+              "RelativeToolTip": "WguApp\\SqlData\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:20:41.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseNote.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\CourseNote.cs",
+              "RelativeDocumentMoniker": "WguApp\\WguClasses\\CourseNote.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\CourseNote.cs",
+              "RelativeToolTip": "WguApp\\WguClasses\\CourseNote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:10:19.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Term.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\Term.cs",
+              "RelativeDocumentMoniker": "WguApp\\WguClasses\\Term.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\WguClasses\\Term.cs",
+              "RelativeToolTip": "WguApp\\WguClasses\\Term.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:05:43.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlData.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\SqlData\\SqlData.cs",
+              "RelativeDocumentMoniker": "WguApp\\SqlData\\SqlData.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\SqlData\\SqlData.cs",
+              "RelativeToolTip": "WguApp\\SqlData\\SqlData.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:04:51.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WguApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\MainPage.xaml",
+              "RelativeToolTip": "WguApp\\MainPage.xaml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-16T22:58:32.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "WguApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\MauiProgram.cs",
+              "RelativeToolTip": "WguApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:58:31.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "WguApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\c971-mobile-application-development-using-c-sharp\\WguApp\\AppShell.xaml",
+              "RelativeToolTip": "WguApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-16T22:58:29.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
